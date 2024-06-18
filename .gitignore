@@ -1,5 +1,7 @@
-*.png 
+*.png
 *.csv
+*.json
+*.sh
 bin/
 include/
 lib/
